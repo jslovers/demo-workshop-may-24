@@ -1,7 +1,7 @@
 # Git Workshop Task: Update Attendee List
 
 ## Objective
-This task is designed to help you practice basic Git commands by adding your name to an attendee list on an HTML page, creating a new branch, and then raising a pull request to merge this branch into the `master` branch.
+This task is designed to help you practice basic Git commands by adding your name to an attendee list on an HTML page, creating a new branch, and then raising a pull request to merge this branch into the `main` branch.
 
 ## Instructions
 
@@ -48,8 +48,8 @@ This task is designed to help you practice basic Git commands by adding your nam
 ### Raising a Pull Request
 1. Go to your fork on GitHub.
 2. You'll see a prompt to "Compare & pull request" for your newly pushed branch. Click it.
-3. Ensure the base repository is set to the original repository and the base branch to `master`.
+3. Ensure the base repository is set to the original repository and the base branch to `main`.
 4. Confirm your changes and then click **'Create Pull Request'**.
 
-## Conclusion
-After completing this task, you will have successfully practiced cloning a repository, creating a new branch, making changes, committing them, pushing these changes back to GitHub, and initiating a pull request to merge your changes with the `master` branch. Good luck!
+## Deployment
+https://jslovers.github.io/demo-workshop-may-24/
