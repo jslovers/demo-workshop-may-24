@@ -9,11 +9,11 @@ This task is designed to help you practice basic Git commands by adding your nam
 1. Fork this repository to your GitHub account.
 2. Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/jslovers/git-workshop-may24.git
+   git clone https://github.com/jslovers/demo-workshop-may-24.git
    ```
 3. Navigate into the cloned directory:
    ```bash
-   cd git-workshop-may24
+   cd demo-workshop-may-24
    ```
 
 ### Task
