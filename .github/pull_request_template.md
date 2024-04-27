@@ -1,14 +1,15 @@
 ### What is the change?
 
-Provide a small description of what did you change and provide the reference to the issue ticket.
+<!-- Provide a small description of what did you change and provide the reference to the issue ticket. -->
 
 ### Is it bug?
 
-- Steps to repro
+<!-- - Steps to repro
 - Expected
-- Actual
+- Actual -->
 
-### \*Tested on:
+### \*Tested on: 
+<!-- Local most of the time -->
 
 #### Platforms
 
@@ -22,4 +23,4 @@ Provide a small description of what did you change and provide the reference to 
 
 ### Before / After Change Screenshots
 
-> For visual or interaction changes. Can be video / screenshot.
+<!-- > For visual or interaction changes. Can be video / screenshot. -->
