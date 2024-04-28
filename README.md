@@ -19,7 +19,7 @@ This task is designed to help you practice basic Git commands by adding your nam
 ### Task
 1. Create a new branch for your changes:
    ```bash
-   git checkout -b add-my-name-YOURNAME
+   git checkout -b add-my-name-<YOURNAME>
    ```
 2. Open the `index.html` file located in the root directory.
 3. Find the `<ul>` tag for attendees.
@@ -42,7 +42,7 @@ This task is designed to help you practice basic Git commands by adding your nam
 ### Pushing Changes
 1. Push your changes to the new branch on your fork:
    ```bash
-   git push origin add-my-name
+   git push origin add-my-name-<YOURNAME>
    ```
 
 ### Raising a Pull Request
